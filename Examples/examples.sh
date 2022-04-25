@@ -6,8 +6,39 @@ pathDatasetKitti='/home/xxs90/Documents/orb-slam3/data_odometry'
 
 #------------------------------------
 # Monocular Examples with KITTI dataset
-echo "Launching KITTI00 with Monocular sensor"
-./Monocular/mono_kitti ../Vocabulary/ORBvoc.txt ./Monocular/KITTI00-02.yaml "$pathDatasetKitti"/data_odometry_gray/00
+# echo "Launching KITTI00 with Monocular sensor"
+# ./Monocular/mono_kitti ../Vocabulary/ORBvoc.txt ./Monocular/KITTI00-02.yaml "$pathDatasetKitti"/data_odometry_gray/00
+
+# echo "Launching KITTI01 with Monocular sensor"
+# ./Monocular/mono_kitti ../Vocabulary/ORBvoc.txt ./Monocular/KITTI00-02.yaml "$pathDatasetKitti"/data_odometry_gray/01
+
+# echo "Launching KITTI02 with Monocular sensor"
+# ./Monocular/mono_kitti ../Vocabulary/ORBvoc.txt ./Monocular/KITTI00-02.yaml "$pathDatasetKitti"/data_odometry_gray/02
+
+# echo "Launching KITTI03 with Monocular sensor"
+# ./Monocular/mono_kitti ../Vocabulary/ORBvoc.txt ./Monocular/KITTI03.yaml "$pathDatasetKitti"/data_odometry_gray/03
+
+# echo "Launching KITTI04 with Monocular sensor"
+# ./Monocular/mono_kitti ../Vocabulary/ORBvoc.txt ./Monocular/KITTI04-12.yaml "$pathDatasetKitti"/data_odometry_gray/04
+
+# echo "Launching KITTI05 with Monocular sensor"
+# ./Monocular/mono_kitti ../Vocabulary/ORBvoc.txt ./Monocular/KITTI04-12.yaml "$pathDatasetKitti"/data_odometry_gray/05
+
+# echo "Launching KITTI056 with Monocular sensor"
+# ./Monocular/mono_kitti ../Vocabulary/ORBvoc.txt ./Monocular/KITTI04-12.yaml "$pathDatasetKitti"/data_odometry_gray/06
+
+# echo "Launching KITTI07 with Monocular sensor"
+# ./Monocular/mono_kitti ../Vocabulary/ORBvoc.txt ./Monocular/KITTI04-12.yaml "$pathDatasetKitti"/data_odometry_gray/07
+
+# echo "Launching KITTI08 with Monocular sensor"
+# ./Monocular/mono_kitti ../Vocabulary/ORBvoc.txt ./Monocular/KITTI04-12.yaml "$pathDatasetKitti"/data_odometry_gray/08
+
+# echo "Launching KITTI09 with Monocular sensor"
+# ./Monocular/mono_kitti ../Vocabulary/ORBvoc.txt ./Monocular/KITTI04-12.yaml "$pathDatasetKitti"/data_odometry_gray/09
+
+# echo "Launching KITTI10 with Monocular sensor"
+# ./Monocular/mono_kitti ../Vocabulary/ORBvoc.txt ./Monocular/KITTI04-12.yaml "$pathDatasetKitti"/data_odometry_gray/10
+
 
 #------------------------------------
 # Monocular Examples
